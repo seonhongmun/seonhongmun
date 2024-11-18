@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:b06d6d,100:5a1692&height=180&text=Welcome%20To%20SeonHong's%20Github&animation=twinkling&fontColor=a9eadd&fontSize=50" />
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Developer </h2>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Front/Backe EndDeveloper </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 저는 성장하고 더욱 나아가는 개발자 입니다 </div> 
     </div>
     <div align= "center">
